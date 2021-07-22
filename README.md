@@ -6,7 +6,7 @@
 ## About
 Hello, my name is Nguyen Ngoc Duc.
 I am a full-stack web developer, mobile coder and UI/UX designer.
-I'm a programmer but I love to travel and do design related things.
+I'm a coder but I love to travel and do design related things.
 I like to play basketball but not very well.
 Sociable, funny is what others perceive in me
 ## Education
