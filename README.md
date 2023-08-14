@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm DucNguyen a.k.a Peaky - Web/Mobile Coder
 
 ![bg](https://user-images.githubusercontent.com/84781644/126588914-1a390dbd-3b14-484d-99e0-be2990671b7e.png)
-💻 Coder at [devzone.vn](https://devzone.vn/) 🏝️Living in HaNoi - VietNam
+💻 Coder at [htvietnam.vn](https://htvietnam.vn/) 🏝️Living in HaNoi - VietNam
 
 ## About
 Hello, my name is Nguyen Ngoc Duc.
@@ -16,13 +16,13 @@ Sociable, funny is what others perceive in me
 <a target="_blank" href="https://www.linkedin.com/in/nguy%E1%BB%85n-ng%E1%BB%8Dc-%C4%91%E1%BB%A9c-734268177/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/dl.tosa_/">
+<a target="_blank" href="https://www.instagram.com/ducky_2nine/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a target="_blank" href="mailto:ngocduc.bk.hust@gmail.com">
+<a target="_blank" href="mailto:ducnn@htvietnam.vn">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="https://fb.com/Peakyyyy/">
+<a target="_blank" href="https://fb.com/duckynocirclek/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
