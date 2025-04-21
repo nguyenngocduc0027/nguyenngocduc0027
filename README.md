@@ -1,4 +1,4 @@
-### Hi there 👋, I'm DucNguyen a.k.a Peaky - Web/Mobile Developer & Brand Designer
+### Hi there 👋, I'm DucNguyen a.k.a Ducky - Web/Mobile Developer & Brand Designer
 
 ![bg](https://user-images.githubusercontent.com/84781644/126588914-1a390dbd-3b14-484d-99e0-be2990671b7e.png)  
 💻 Developer at [metasofware.vn](https://metasoftware.vn/)  
