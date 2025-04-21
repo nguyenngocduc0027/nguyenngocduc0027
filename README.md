@@ -18,11 +18,16 @@ People often describe me as **sociable** and **funny**.
 ## Education  
 - Hanoi University of Science and Technology
 
-## Connect with me  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/nguy%E1%85%95n-ng%E1%85%8Dc-%C4%91%E1%BB%A9c-734268177/)  
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)]([https://www.instagram.com/ducky_2nine/](https://www.instagram.com/ducky.metasoft/))  
-[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)](mailto:ngocduc.bk.hust@gmail.com)  
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg)](https://www.facebook.com/Ducky.MetaSoft)
+## Connect with me    
+<a target="_blank" href="https://www.instagram.com/ducky.metasoft/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="mailto:mailto:ngocduc.bk.hust@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://www.facebook.com/Ducky.MetaSoft">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 <br/>
 
@@ -33,21 +38,24 @@ People often describe me as **sociable** and **funny**.
 ## Tech Stack
 
 ### 🔹 Web Development  
-<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />  
-<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" />  
-<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />  
-<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />  
-<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />  
-<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" />  
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />&nbsp;
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" />&nbsp;
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />&nbsp;
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />&nbsp;
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />&nbsp;
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" />
 
 ### 🔹 Mobile Development  
-<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" />  
-<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" />  
-<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/objective-c/objective-c.png" />  
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" />&nbsp;
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" />&nbsp;
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/objective-c/objective-c.png" />
 
 ### 🔹 UI/UX & Design  
-- Brand Identity Design  
-- UI/UX using Figma, Adobe XD, Illustrator, Photoshop, InDesign, etc.
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" />&nbsp;
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/adobe-xd/adobe-xd.png" />&nbsp;
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/adobe-illustrator/adobe-illustrator.png" />&nbsp;
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/adobe-photoshop/adobe-photoshop.png" />&nbsp;
+<img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/adobe-indesign/adobe-indesign.png" />
 
 ### 🔹 Database  
 <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />  
